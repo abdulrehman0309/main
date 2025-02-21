@@ -1,0 +1,180 @@
+
+@media(max-width:1236px){
+    
+}
+@media(max-width:1200px)
+{
+    .navbar ul{
+        margin-right: 10px;
+        }
+    .navbar ul{
+        margin-right:10;
+    }
+    .DashboardCol{
+        padding-right: 10px;
+    }
+    .rankRight .promotionDateHeading{
+        margin: 14px 0px;
+     }
+     .rankRight .leftRecord{
+        margin-top: 7.9px;
+      }
+ 
+}
+@media(max-width:992px)
+{
+    .date{
+        position:relative;
+    }
+  
+    .logo{
+        height:auto;
+    }
+    #sideNavbarNav{
+        display: none;
+    }
+    .navbar-collapse{
+        right:100%;
+        width: 700px;
+        top: 55px;
+       position: absolute; 
+    }
+    .centerpanel{
+        border: 1px solid black;
+    }
+    .centerpanel h1{
+        border: none;
+    }
+    .DashboardContentArea .DashboardDate{
+      font-size: x-large;
+    }
+    .DashboardContentArea{
+        border-top:1px solid black;
+    
+    }    
+    .DashboardContentArea .mainpicture img{
+        height:auto;
+        
+    }
+    .addStudentCenterPanel{
+        border:none;
+        height:auto;
+        overflow-y: hidden;
+    }
+    form{
+        border:2px solid black;
+        padding: 0px 5px;
+        margin-top: 10px;
+        border-radius: 5px;
+    }
+    .DOBPortion .row{
+        
+        width:auto;
+    }
+    .notes{
+        padding-right: 12px;
+        padding-left: 12px;;
+        
+       }
+}
+
+@media(max-width:810px){
+    .rankRight .promotionDateHeading{
+        margin: 25px 0px;
+     }
+}
+@media(max-width:768px){
+    .rankRight .promotionDateHeading{
+        margin: 17px 0px;
+     }
+}
+@media(max-width:620px){
+    .rankRight .promotionDateHeading{
+        margin: 25px 0px;
+     }
+}
+@media(max-width:576px)
+{
+    
+    .quickNotesContainer h2{
+        font-size: 20px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+    .quickNotesContainer button{
+        font-size: 20px;
+    }
+    .quickNotesContainer h4{
+        font-size: 18px;
+    }
+    .logo{
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .navbar{
+        margin-top: 5px;
+    }
+    .navbar-toggler-btn{
+        padding:0px 5px;
+    }
+    .SchoolName{
+        border: 1px solid black;
+    }
+    .DashboardContentArea{
+        border:none;
+}
+.DashboardContentArea h1{
+    font-size: 20px;
+}
+.DashboardContentArea .DashboardDate{
+    font-size: large;
+}
+.DashboardContentArea img{
+min-height: 300px;
+border:1px solid black;
+}
+.DashboardCol{
+    padding-top: 5px;
+
+}
+.stdNotes{
+    min-height: 200px;
+}
+.rankRight .ApxHeadings{
+    font-size:14px ;
+
+}
+.rankRight .rankColor{
+ font-size: 14px;
+}
+.rankRight span{
+    font-size: 14px;
+  
+   }
+   .rankRight{
+    margin-left:7px;
+   }
+}
+@media(min-width:1200px)
+{
+
+.imgLogo2{
+    height:50px;
+}
+
+
+}
+@media(min-width:992px)
+{   
+
+      
+.imgLogo2{
+    height:40px;
+    width:50%;
+}
+.navbar-collapse{
+    left:100px;
+    top: 200px;
+}
+
+}
